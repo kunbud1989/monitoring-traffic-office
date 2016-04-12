@@ -1,7 +1,7 @@
 {
-  "name": "socket-example",
+  "name": "socket-simple",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "simple socket for broadcast",
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "^4.10.2",
